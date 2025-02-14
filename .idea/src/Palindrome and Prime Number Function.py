@@ -9,6 +9,7 @@ def prime_number(x):
     if x == 1:
         return "Number has to be greater than 1"
     else:
+        # Floor Division
         for i in range(2, (x//2)+1):
             if x % i == 0:
                 return "It is not a palindrome"
