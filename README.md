@@ -6,7 +6,8 @@
   5. Create your Palindrome and Prime Number Function
 
       a. Reverse the string and check if they match
-      b. Use floor division
+
+     b. Use floor division
   
   6. Mark your issues as completed!
 
